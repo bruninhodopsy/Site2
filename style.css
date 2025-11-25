@@ -58,4 +58,10 @@ h1 {
     line-height: 1.6;
 
 }
+h2:hover {
+    cursor: pointer;
+    color: red;
+    text-shadow: 2px 2px 5px black;
+    transform: scaleX(6) scaleY(6) skew(20deg, 10deg);
+}
 
